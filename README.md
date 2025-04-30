@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GemzyTech
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning python and html
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: christiangemraganit@gmail.com
 - 😄 Pronouns: 
