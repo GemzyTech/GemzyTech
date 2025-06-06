@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and html
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: christiangemraganit@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: i dunnoo
 - ⚡ Fun fact: keep calm and code later
 
 <!---
